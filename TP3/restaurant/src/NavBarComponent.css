@@ -1,0 +1,32 @@
+/* NavBarComponent.css */
+
+/* Estilos para la barra de navegación */
+nav {
+  background-color: rgb(132, 190, 139);
+  padding: 10px;
+}
+
+/* Estilos para la lista de navegación */
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* Estilos para cada elemento de la lista de navegación */
+li {
+  margin-right: 20px;
+}
+
+/* Estilos para los enlaces de la lista de navegación */
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a:hover {
+  color:black;
+}
