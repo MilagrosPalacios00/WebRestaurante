@@ -22,3 +22,5 @@ Este proyecto consiste en el desarrollo de un sitio web para un restaurante, des
 ## Capturas de pantalla 
 
 ![Captura de pantalla 2024-08-08 205147](https://github.com/user-attachments/assets/70ea0590-a508-4981-aa4e-36427d57c8a2)
+![Captura de pantalla 2024-08-08 205056](https://github.com/user-attachments/assets/85a5816e-06d6-4185-b7b6-e72217ad6d08)
+
